@@ -58,7 +58,7 @@
 	<!-- Cockpit -->
 
 	<model>
-		<path>Aircraft/A-10-Bombable/Modelspilot.xml</path>
+		<path>Aircraft/A-10-Bombable/Models/pilot.xml</path>
 	</model>
 
 
