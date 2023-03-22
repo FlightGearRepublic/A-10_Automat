@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <scenario>
+    <name>A-10 Automat 1 - LIPA South</name>
+    <description>Places an A-10 Automat south of LIPA</description>
+    <entry>
+      <search-order>PREFER_AI</search-order>
+      <type>aircraft</type>
+      <callsign>OPFOR30</callsign>
+      <name>Warthog1_30</name>
+      <model type="string">Aircraft/A-10-Bombable/Models/A-10.xml</model>
+      <latitude type="double">45.377032508386705</latitude>
+      <longitude type="double">12.742840509384507</longitude>
+      <altitude type="double">8000</altitude>
+      <speed>320.0</speed>
+      <bank type="double">-5</bank>
+      <heading type="double">355</heading>
+    </entry>
+  </scenario>
+</PropertyList>

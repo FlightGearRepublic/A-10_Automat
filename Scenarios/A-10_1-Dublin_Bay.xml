@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <scenario>
+    <name>A-10 Automat x3 - Dublin Bay</name>
+    <description>Places 3 A-10 Automat at Dublin Bay, Ireland.</description>
+    <entry>
+      <search-order>PREFER_AI</search-order>
+      <type>aircraft</type>
+      <callsign>OPFOR20</callsign>
+      <name>Warthog1_20</name>
+      <model type="string">Aircraft/A-10-Bombable/Models/A-10.xml</model>
+      <latitude type="double">53.33557511266054</latitude>
+      <longitude type="double">-6.111931157061637</longitude>
+      <altitude type="double">12000</altitude>
+      <speed>320.0</speed>
+      <bank type="double">0</bank>
+      <heading type="double">265</heading>
+    </entry>
+    <entry>
+      <search-order>PREFER_AI</search-order>
+      <type>aircraft</type>
+      <callsign>OPFOR23</callsign>
+      <name>Warthog1_23</name>
+      <model type="string">Aircraft/A-10-Bombable/Models/A-10.xml</model>
+      <latitude type="double">53.33488653702022</latitude>
+      <longitude type="double">-6.111809774118152</longitude>
+      <altitude type="double">12000</altitude>
+      <speed>320.0</speed>
+      <bank type="double">0</bank>
+      <heading type="double">265</heading>
+    </entry>
+    <entry>
+      <search-order>PREFER_AI</search-order>
+      <type>aircraft</type>
+      <callsign>OPFOR26</callsign>
+      <name>Warthog1_26</name>
+      <model type="string">Aircraft/A-10-Bombable/Models/A-10.xml</model>
+      <latitude type="double">53.33325565563489</latitude>
+      <longitude type="double">-6.11199184853338</longitude>
+      <altitude type="double">12000</altitude>
+      <speed>320.0</speed>
+      <bank type="double">0</bank>
+      <heading type="double">265</heading>
+    </entry>
+  </scenario>
+</PropertyList>
