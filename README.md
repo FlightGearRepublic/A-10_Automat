@@ -29,3 +29,7 @@ There are two spawn locations available, Dublin bay in Ireland and ~40 miles sou
 2. Takeoff.
 3. On the sim, click the "top menu" -> `"Automat"` -> `"Automat Settings"`
 4. Chose one of the `"Respawn AI Aircraft"` options.
+
+# DISCLAIMER
+* Might interfer with other weapon and damage systems and models.
+* Disable the addon before participating in events.
